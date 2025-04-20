@@ -4,14 +4,13 @@ Bu proje, [Penetration Testing Execution Standard (PTES)](http://www.pentest-sta
 
 ## 📘 İçerik
 
-- Giriş
-- Ön Hazırlık (Pre-engagement)
-- Bilgi Toplama
-- Tehdit Modellemesi
-- Zafiyet Analizi
-- Sömürü (Exploitation)
-- Erişim Koruma (Post Exploitation)
-- Raporlama
+- İstihbarat_Toplantısı_Penetrasyon_Testi_İnfaz_standardı
+- Katılım_Öncesi_Penetrasyon_Testi_Yürütme_Standardı
+- Tehdit_Modelleme_Penetrasyon_Testi_Yürütme_Standardı
+- Güvenlik_Açığı_Analizi_Penetrasyon_Testi_Yürütme_Standardı
+- Sömürü_Penetrasyon_Testi_İnfaz_Standardı
+- Post_Exploitation_Penetrasyon_Test_Yürütme_Standardı
+- Raporlama_Penetrasyon_Testi_İnfaz_Standardı
 
 ## 🛠️ Kurulum
 
